@@ -9,7 +9,7 @@ public class Solution3 {
 	 */
 	 int[] numbers = new int[100];
 	 int count = 0;
-	 // 0을 제외한 1부터 100가지의 숫자
+	 // 1부터 100까지의 숫자, count는 0
 	 boolean isPrime;
 	 //소수가 참이냐 거짓이냐
 
